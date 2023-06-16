@@ -1,0 +1,11 @@
+D:\tugas\Tugas TekPro\Pong Game\Pong Game\Pong Game\bin\Debug\Pong Game.exe.config
+D:\tugas\Tugas TekPro\Pong Game\Pong Game\Pong Game\bin\Debug\Pong Game.exe
+D:\tugas\Tugas TekPro\Pong Game\Pong Game\Pong Game\bin\Debug\Pong Game.pdb
+D:\tugas\Tugas TekPro\Pong Game\Pong Game\Pong Game\obj\Debug\Pong Game.csproj.AssemblyReference.cache
+D:\tugas\Tugas TekPro\Pong Game\Pong Game\Pong Game\obj\Debug\Pong Game.csproj.SuggestedBindingRedirects.cache
+D:\tugas\Tugas TekPro\Pong Game\Pong Game\Pong Game\obj\Debug\Pong_Game.pong.resources
+D:\tugas\Tugas TekPro\Pong Game\Pong Game\Pong Game\obj\Debug\Pong_Game.Properties.Resources.resources
+D:\tugas\Tugas TekPro\Pong Game\Pong Game\Pong Game\obj\Debug\Pong Game.csproj.GenerateResource.cache
+D:\tugas\Tugas TekPro\Pong Game\Pong Game\Pong Game\obj\Debug\Pong Game.csproj.CoreCompileInputs.cache
+D:\tugas\Tugas TekPro\Pong Game\Pong Game\Pong Game\obj\Debug\Pong Game.exe
+D:\tugas\Tugas TekPro\Pong Game\Pong Game\Pong Game\obj\Debug\Pong Game.pdb
